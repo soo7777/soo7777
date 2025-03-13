@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 안녕, 난 리처드김이야. 반가워.
+
+### 안녕하세요. 김용수입니다. 열공합시다.
+
 <!--
 **soo7777/soo7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
