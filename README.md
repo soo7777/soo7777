@@ -1,4 +1,10 @@
-## Hi there 👋
+## 팀 개발을 위한 Git Hub 시작하기 평가판
+
+### 안녕하세요? 리처드입니다.
+
+ - 지금 열심히 Git GitHub 책을 업데이트하는 중입니다.
+ - 마크다운 문법도 배워야겠죠?
+ - 모두 함께 화이팅!
 
 <!--
 **soo7777/soo7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
